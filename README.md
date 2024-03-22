@@ -12,9 +12,9 @@
     <br />
     <a href="#" target="_blank">View Live</a>
     ·
-    <a href="https://github.com/lov3five/TheGitHubShop/issues/new" target="_blank">Report Bug</a>
+    <a href="https://github.com/lov3five/ShopHub/issues/new" target="_blank">Report Bug</a>
     ·
-    <a href="https://github.com/lov3five/TheGitHubShop/issues/new" target="_blank">Request Feature</a>
+    <a href="https://github.com/lov3five/ShopHub/issues/new" target="_blank">Request Feature</a>
   </h4>
 </div>
 
